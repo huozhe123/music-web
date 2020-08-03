@@ -1,0 +1,10 @@
+@import "~normalize.css";
+@import '~antd/dist/antd.css';
+
+.wrap-v1{
+  width:850px;
+  margin:0 auto;
+}
+a{
+  text-decoration: none;
+}
